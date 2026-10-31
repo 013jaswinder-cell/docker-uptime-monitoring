@@ -1,0 +1,14 @@
+
+# Gmail credentials and SMTP configuration
+.msmtprc
+.gmail-app-password
+
+# Monitoring logs
+*.log
+
+# Monitoring state
+.uptime-nginx-state
+
+# Temporary files
+*.tmp
+*~
