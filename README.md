@@ -64,6 +64,25 @@ uptime-alerts-project/
 
 ## Future Improvements
 
-- Verify CPU threshold email notifications.
+- Verify CPU threshold email notifications
 - Add a monitoring dashboard.
 - Improve alert handling and reporting.
+- ## Project Screenshots
+
+### 1. Docker Container Status
+![Docker Container Status](screenshots/ss1.jpeg)
+
+### 2. Container Monitoring
+![Container Monitoring](screenshots/ss2.jpeg)
+
+### 3. Monitoring Output
+![Monitoring Output](screenshots/ss3.jpeg)
+
+### 4. Container Status Verification
+![Container Status Verification](screenshots/ss4.jpeg)
+
+### 5. Email Alert Notification
+![Email Alert Notification](screenshots/ss5.jpeg)
+
+### 6. Recovery Email Notification
+![Recovery Email Notification](screenshots/ss6.jpeg)
